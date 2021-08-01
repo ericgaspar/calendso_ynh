@@ -1,7 +1,7 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/calendso/calendso/archive/062b92be29d99eb632c9821b5ac219fd4590ef8c.tar.gz
+SOURCE_SUM=8d8036cf1177fcc4e8250ba982e80f71fbdecb641ef8e2aa8e09e86be4254007
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
+SOURCE_FILENAME=calendso.tar.gz
 SOURCE_EXTRACT=true
