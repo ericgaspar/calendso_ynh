@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/calendso/calendso/archive/062b92be29d99eb632c9821b5ac219fd4590ef8c.tar.gz
-SOURCE_SUM=8d8036cf1177fcc4e8250ba982e80f71fbdecb641ef8e2aa8e09e86be4254007
+SOURCE_URL=https://github.com/calendso/calendso/archive/refs/tags/v1.0.tar.gz
+SOURCE_SUM=acf824179d928985e1ff5b8f4417e5e70e631abc4b72233c74317f8f709126f6
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true

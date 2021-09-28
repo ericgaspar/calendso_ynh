@@ -12,8 +12,7 @@
         "license": "MIT",
         "website": "https://calendso.com/",
         "demo": "https://demo.example.com",
-        "admindoc": "https://docs.calendso.com/docs/installation",
-        "userdoc": "https://yunohost.org/apps",
+        "admindoc": "https://docs.cal.com/docs/self-hosting/installation",
         "code": "https://github.com/calendso/calendso"
     },
     "license": "MIT",
@@ -33,14 +32,13 @@
         "install" : [
             {
                 "name": "domain",
-                "type": "domain",
-                "example": "example.com"
+                "type": "domain"
             },
             {
                 "name": "path",
                 "type": "path",
-                "example": "/example",
-                "default": "/example"
+                "example": "/calendso",
+                "default": "/calendso"
             },
             {
                 "name": "is_public",
